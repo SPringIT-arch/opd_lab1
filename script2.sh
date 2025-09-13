@@ -27,9 +27,9 @@ chmod 062 hippowdon0/pansage
 chmod 044 ponyta5
 chmod 711 shroomish2
 chmod 044 shroomish2/hitmonchan
-chmod 550 shroomish2/nintales
-chmod 355 shroomish2/nintales/clefable
-chmod 755 shroomish2/nintales/raichu
+chmod 550 shroomish2/ninetales
+chmod 355 shroomish2/ninetales/clefable
+chmod 755 shroomish2/ninetales/raichu
 chmod u=rx,g=x,o=w shroomish2/emboar
 chmod 677 shroomish2/emboar/snivy
 chmod 400 shroomish2/emboar/grumpig
