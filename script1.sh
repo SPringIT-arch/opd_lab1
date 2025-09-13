@@ -10,9 +10,9 @@ touch hippowdon0/mothim/{nidoranM,dusclops}
 touch hippowdon0/nidorina/timburr
 touch hippowdon0/gothitelle/{doduo,seadra,shelgon,grotle}
 
-mkdir -p shroomish2/{ninetails/{clefable,raichu},emboar/snivy,nincada/porygon}
+mkdir -p shroomish2/{ninetales/{clefable,raichu},emboar/snivy,nincada/porygon}
 touch shroomish2/{hitmonchan,tangrowth}
-touch shroomish2/emboar/grumping
+touch shroomish2/emboar/grumpig
 touch shroomish2/nincada/{grovyle,medicham,chinchou,oddish,omanyte,crawdaunt}
 
 mkdir -p slakoth8/{scraggy/sandile,blitzle/infernape,drilbur/{staravia,spearow,yanmega}}
